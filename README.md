@@ -1,2 +1,2 @@
 # SR_with_optsamples
-spectral reconstruction with optimized samples
+The source code of Efficient spectral reconstruction using a trichromatic camera via sample optimization
